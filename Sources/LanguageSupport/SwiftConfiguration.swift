@@ -16,7 +16,7 @@ private let swiftReservedIdentifiers =
    "precedencegroup", "private", "protocol", "public", "repeat", "rethrows", "return", "Self", "self", "static",
    "struct", "subscript", "super", "switch", "throw", "throws", "true", "try", "typealias", "var", "where", "while",
    "_", "#available", "#colorLiteral", "#else", "#elseif", "#endif", "#fileLiteral", "#if", "#imageLiteral", "#keyPath",
-   "#selector", "#sourceLocation", "#unavailable"]
+   "#selector", "#sourceLocation", "#unavailable", "final", "convenience", "dynamic", "lazy", "optional", "override"]
 private let swiftReservedOperators =
   [".", ",", ":", ";", "=", "@", "#", "&", "->", "`", "?", "!"]
 
