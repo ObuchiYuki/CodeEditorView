@@ -1,0 +1,105 @@
+{
+  "" : {
+    "const-values" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditorView-master.swiftconstvalues",
+    "dependencies" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditorView-master.d",
+    "diagnostics" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditorView-master.dia",
+    "emit-module-dependencies" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditorView-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditorView-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditorView-master.swiftdeps"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/CodeActions.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeActions.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeActions.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeActions.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/CodeEditing.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditing.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditing.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditing.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/CodeEditor.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditor.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditor.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeEditor.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/CodeStorage.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeStorage.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeStorage.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeStorage.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/CodeStorageDelegate.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeStorageDelegate.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeStorageDelegate.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeStorageDelegate.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/CodeView.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeView.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeView.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/CodeView.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/Constants.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/Constants.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/GutterView.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/GutterView.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/GutterView.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/GutterView.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/LineMap.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/LineMap.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/LineMap.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/LineMap.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/MessageViews.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/MessageViews.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/MessageViews.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/MessageViews.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/MinimapView.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/MinimapView.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/MinimapView.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/MinimapView.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/OSDefinitions.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/OSDefinitions.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/OSDefinitions.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/OSDefinitions.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/ScrollViewExtras.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/ScrollViewExtras.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/ScrollViewExtras.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/ScrollViewExtras.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/TextContentStorageExtras.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextContentStorageExtras.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextContentStorageExtras.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextContentStorageExtras.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/TextLayoutManagerExtras.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextLayoutManagerExtras.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextLayoutManagerExtras.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextLayoutManagerExtras.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/TextView.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextView.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextView.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/TextView.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/Theme.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/Theme.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/UIHostingView.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/UIHostingView.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/UIHostingView.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/UIHostingView.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/CodeEditorView/ViewModifiers.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/ViewModifiers.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/ViewModifiers.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/CodeEditorView.build/Objects-normal/arm64/ViewModifiers.o"
+  }
+}

@@ -1,0 +1,4 @@
+module LanguageSupport {
+header "LanguageSupport-Swift.h"
+export *
+}

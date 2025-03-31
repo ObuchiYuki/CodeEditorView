@@ -1,0 +1,17 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "dfc5392d26e2bef16df1ef7416b179862128bf0b93790240ed5b85f00ebf0830"
+build_start_time: [1743389362, 49862000]
+build_end_time: [1743389369, 951249000]
+inputs:
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/AgdaConfiguration.swift": !dirty [1740911128, 856033464]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/CypherConfiguration.swift": !dirty [1740911128, 856211800]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/HaskellConfiguration.swift": !dirty [1740911128, 856338757]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/LanguageConfiguration.swift": !dirty [1740919366, 986717898]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/LanguageService.swift": !dirty [1740911128, 856732064]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/Location.swift": !dirty [1740911128, 856903495]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/Message.swift": !dirty [1740911128, 857012138]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/PythonConfiguration.swift": !dirty [1740919930, 696920224]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/SQLiteConfiguration.swift": !dirty [1740911128, 857186691]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/SwiftConfiguration.swift": !dirty [1741149783, 765557503]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/Tokeniser.swift": !dirty [1740911128, 857428718]
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/__PythonConfiguration.swift": !dirty [1741150412, 672642011]

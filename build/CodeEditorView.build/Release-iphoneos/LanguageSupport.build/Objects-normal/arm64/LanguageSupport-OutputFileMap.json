@@ -1,0 +1,70 @@
+{
+  "" : {
+    "const-values" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master.swiftconstvalues",
+    "dependencies" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master.d",
+    "diagnostics" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master.dia",
+    "emit-module-dependencies" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master.swiftdeps"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/AgdaConfiguration.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/AgdaConfiguration.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/AgdaConfiguration.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/AgdaConfiguration.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/CypherConfiguration.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/CypherConfiguration.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/CypherConfiguration.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/CypherConfiguration.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/HaskellConfiguration.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/HaskellConfiguration.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/HaskellConfiguration.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/HaskellConfiguration.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/LanguageConfiguration.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageConfiguration.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageConfiguration.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageConfiguration.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/LanguageService.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageService.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageService.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageService.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/Location.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Location.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Location.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Location.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/Message.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Message.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Message.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Message.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/PythonConfiguration.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/PythonConfiguration.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/PythonConfiguration.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/PythonConfiguration.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/SQLiteConfiguration.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/SQLiteConfiguration.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/SQLiteConfiguration.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/SQLiteConfiguration.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/SwiftConfiguration.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/SwiftConfiguration.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/SwiftConfiguration.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/SwiftConfiguration.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/Tokeniser.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Tokeniser.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Tokeniser.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/Tokeniser.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/__PythonConfiguration.swift" : {
+    "index-unit-output-path" : "/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/__PythonConfiguration.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/__PythonConfiguration.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/__PythonConfiguration.o"
+  }
+}

@@ -1,0 +1,9 @@
+"/Users/yuki/Developer/MFileViewer/CodeEditorView/Sources/LanguageSupport/AgdaConfiguration.swift":
+  swiftmodule: "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport.swiftmodule"
+  diagnostics: "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master.dia"
+  objc-header: "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-Swift.h"
+  dependencies: "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master.d"
+  swiftsourceinfo: "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport.swiftsourceinfo"
+  const-values: "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport-master.swiftconstvalues"
+  abi-baseline-json: "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport.abi.json"
+  swiftdoc: "/Users/yuki/Developer/MFileViewer/CodeEditorView/build/CodeEditorView.build/Release-iphoneos/LanguageSupport.build/Objects-normal/arm64/LanguageSupport.swiftdoc"
